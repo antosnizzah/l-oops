@@ -17,6 +17,7 @@ Loops are structures that allow you to repeat a block of code multiple times, of
 The **for loop** executes a block of code as long as a specified condition is true. This loop is especially useful when you know exactly how many times you want the code to run.
 
 #### Syntax
+```javascript
 
 for (initialization; condition; increment/decrement) {
     // Code to be executed
