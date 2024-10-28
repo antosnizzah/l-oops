@@ -21,8 +21,8 @@ The **for loop** executes a block of code as long as a specified condition is tr
 for (initialization; condition; increment/decrement) {
     // Code to be executed
 }
-
- 2-WHILE LOOP
+---
+ ###2-WHILE LOOP
  The while loop executes a block of code as long as a specified condition is true. 
  this loop evaluates the condition before each iteration and continues running as long as the condition remains true.
  The loop terminates when the condition becomes false.
